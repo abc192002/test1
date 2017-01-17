@@ -19,7 +19,7 @@ import { Nombre2 } from './components/nombre';
 //   }
 // }
 
-function App() {
+function App() {  
   const nombre='alfredo'
   return (
     <div className="App">
